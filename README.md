@@ -1,7 +1,9 @@
 Arduboy Classic Library
 ===============
 This documentation provides provides instructions for installing and using the
-Arduboy Classic library, which is compatible with the Arduino 1.0.x platform.
+Arduboy Classic library, which is compatible with the Arduino 1.0.x platform,
+and is fully compatible with release 1.1 of the 
+[Arduboy Library](https://github.com/Arduboy/Arduboy/releases/tag/v1.1).
 
 ## About the Library
 The Arduboy Classic Library provides a programming interface for the creation
