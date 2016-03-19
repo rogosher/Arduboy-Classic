@@ -16,7 +16,7 @@ More information can be found at [https://arduboy.com](https://www.arduboy.com).
 To use the Arduboy library, it must be installed and then included in your
 project.
 
-#### Installing Arduboy Class Library
+#### Installing Arduboy Classic Library
 There are several ways to install the Arduboy Classic Library for use in your
 projects. The recommended method, and easiest to use when getting started, or
 when making simple apps, is through the Arduino IDE.
@@ -37,8 +37,8 @@ and uncompressed. See the sub-section *Where to Install*, found at the bottom
 of this section. 
 
 > **Downloads**
-> ([zip](https://github.com/Arduboy/Arduboy-Classic/))
-> ([tar.gz](https://github.com/Arduboy/Arduboy-Classic/))
+> ([zip](https://github.com/Arduboy/ArduboyClassic/))
+> ([tar.gz](https://github.com/Arduboy/ArduboyClassic/))
 
 ##### Use Source Management (Git)
 Install the library by cloning its repository. This will put you on the `master`
