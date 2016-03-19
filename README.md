@@ -22,14 +22,14 @@ projects. The recommended method, and easiest to use when getting started, or
 when making simple apps, is through the Arduino IDE.
 
 ##### Adruino IDE - *Recommended*
-After installing the [Arduino IDE](https://arduino.cc/downloads), the Arduboy
-Classic Library can be added using IDE's built in Library Manager.
+After installing the 
+[Arduino Classic IDE](https://www.arduino.cc/en/Main/OldSoftwareReleases#1.0.x),
+the Arduboy Classic Library can be added to the Arduino 1.0.x IDE through 
+the main menu under `Sketch > Import Library > Add Library...`.
 
-The Library Manager can be found in the Arduino IDE's menu bar in the `Sketch`
-drop down menu, `Sketch > Include Library > Manage Libraries...`.
+Select a local zip file of the Arduboy Classic library. Instructions for
+downloading the Arduboy Classic archive can be found in the next section.
 
-After opening the Library Manager, search for "Arduboy" in the search field, or
-find the library in the *other* category.
 
 ##### Download an Archive
 Archived versions of the 1.1.0 release of the Arduboy Library can be downloaded
